@@ -1,0 +1,9 @@
+@import url(partners__img.css);
+
+.partners__images {
+    display: flex;
+    width: 58%;
+    margin: 0 21%;
+    justify-content: space-between;
+    padding-top: 60px;
+}

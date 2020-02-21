@@ -1,0 +1,7 @@
+@import url(request__title.css);
+@import url(request__subtitle.css);
+
+.request__text {
+    width: 590px;
+    margin-left: 21%;
+}

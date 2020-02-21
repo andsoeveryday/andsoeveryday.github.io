@@ -1,0 +1,11 @@
+@import url(contacts__item.css);
+
+.contacts__items {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 60px;
+}
+
+.contacts__items div:last-of-type h3:last-of-type {
+    color: #f7654a;
+}

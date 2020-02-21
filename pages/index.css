@@ -1,0 +1,50 @@
+@import url(../vendor/normalize.css);
+@import url(../blocks/first-screen.css);
+@import url(../blocks/numbers.css);
+@import url(../blocks/project.css);
+@import url(../blocks/request.css);
+@import url(../blocks/services.css);
+@import url(../blocks/portfolio.css);
+@import url(../blocks/question.css);
+@import url(../blocks/partners.css);
+@import url(../blocks/contacts.css);
+@import url(../blocks/footer.css);
+@import url(../blocks/popup-image.css);
+
+
+
+@font-face {
+    font-family: 'Oswald';
+    src: local('Oswald Medium'), local('Oswald-Medium'), 
+    url('../fonts/oswald/Oswaldmedium.woff2') format('woff2'), url('../fonts/oswald/Oswaldmedium.woff') format('woff'), url('../fonts/oswald/Oswaldmedium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Oswald';
+    src: local('Oswald Regular'), local('Oswald-Regular'), url('../fonts/oswald/Oswaldregular.woff2') format('woff2'), url('../fonts/oswald/Oswaldregular.woff') format('woff'), url('../fonts/oswald/Oswaldregular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Oswald';
+    src: local('Oswald Bold'), local('Oswald-Bold'), url('../fonts/oswald/Oswaldbold.woff2') format('woff2'), url('../fonts/oswald/Oswaldbold.woff') format('woff'), url('../fonts/oswald/Oswaldbold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: local('Open Sans'), local('OpenSans'),
+    url('../fonts/opensans/opensans.woff2') format('woff2'),
+    url('../fonts/opensans/opensans.woff') format('woff'), 
+    url('../fonts/opensans/opensans.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+button:hover {
+    cursor: pointer;
+}

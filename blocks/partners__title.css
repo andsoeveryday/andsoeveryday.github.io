@@ -1,0 +1,11 @@
+.partners__title {
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 53px;
+    text-transform: uppercase;
+    color: #FFF;
+    margin: 0 auto;
+    padding-top: 100px;
+}

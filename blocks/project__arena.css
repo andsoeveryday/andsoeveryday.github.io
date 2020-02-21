@@ -1,0 +1,8 @@
+@import url(project__img.css);
+@import url(project__rectangle.css);
+@import url(project__subtitle.css);
+@import url(project__text.css);
+
+.project__arena {
+    width: 32%;
+}

@@ -1,0 +1,12 @@
+@import url(request__text.css);
+@import url(request__button.css);
+
+.request {
+    width: 100%;
+    height: 181px;
+    background-color: #f7654a;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 150px;
+}

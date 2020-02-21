@@ -1,0 +1,8 @@
+@import url(contacts__icon.css);
+@import url(contacts__subtitle.css);
+@import url(contacts__text.css);
+
+.contacts__item {
+    width: 23%;
+    outline: 1px solid red;
+}

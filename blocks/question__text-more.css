@@ -1,0 +1,17 @@
+.question__text-more {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    color: #999;
+    width: 38%;
+    margin: 0 auto;
+    margin-left: 21%;
+    text-align: left;
+    display: none;
+}
+
+.question__text-more.question__text-more_show {
+    display: block;
+}

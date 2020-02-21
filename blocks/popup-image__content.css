@@ -1,0 +1,9 @@
+@import url(popup-image_close.css);
+@import url(popup-image_img.css);
+@import url(popup-image_is-opened.css);
+
+.popup-image__content {
+    max-width: 80vw;
+    max-height: 80vh;
+    position: relative;
+}

@@ -1,0 +1,13 @@
+@import url(numbers__text-1.css);
+@import url(numbers__text-2.css);
+@import url(numbers__text-3.css);
+
+.numbers__item {
+    width: 190px;
+    height: 186px;
+    margin-right: 30px;
+}
+
+div:last-child {
+    margin-right: 0;
+}

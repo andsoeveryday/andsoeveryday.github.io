@@ -1,0 +1,9 @@
+@import url(project__title.css);
+@import url(project__area.css);
+
+.project {
+    width: 58%;
+    height: 681px;
+    margin: 250px auto 0;
+}
+

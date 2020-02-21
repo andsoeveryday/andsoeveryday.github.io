@@ -1,0 +1,10 @@
+.contacts__title {
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 53px;
+    text-transform: uppercase;
+    color: #000;
+    margin: 0 auto;
+}

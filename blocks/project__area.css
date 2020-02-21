@@ -1,0 +1,7 @@
+@import url(project__arena.css);
+
+.project__area {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 60px;
+}

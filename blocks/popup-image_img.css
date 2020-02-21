@@ -1,0 +1,5 @@
+.popup-image_img {
+    object-fit: cover;
+    max-width: inherit;
+    max-height: inherit;
+}

@@ -1,0 +1,8 @@
+@import url(services__title.css);
+@import url(services__grid.css);
+
+.services {
+    width: 58%;
+    text-align: center;
+    margin: 170px auto 0;
+}

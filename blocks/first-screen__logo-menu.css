@@ -1,0 +1,10 @@
+@import url(first-screen__logo.css);
+@import url(first-screen__menu.css);
+
+.first-screen__logo-menu {
+    display: flex;
+    justify-content: space-between;
+    width: 58%;
+    margin: 0 auto;
+    padding-top: 20px;
+}
